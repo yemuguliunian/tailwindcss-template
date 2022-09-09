@@ -5,8 +5,8 @@ import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
-    <div class="flex flex-row -my-3">
-        <a href="https://vitejs.dev" target="_blank">
+    <div class="flex flex-row -my-3 h1">
+        <a href="https://vitejs.dev" target="_blank" class="h1 btn-primary">
             <img src="/vite.svg" class="logo" alt="Vite logo" />
         </a>
         <a href="https://vuejs.org/" target="_blank">
